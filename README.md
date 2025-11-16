@@ -1,1 +1,1 @@
-# Kaggle_Titanic-Survival-Prediction
+# Kaggle-Titanic_Survival_Prediction
